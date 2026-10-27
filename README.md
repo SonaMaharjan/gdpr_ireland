@@ -2,7 +2,7 @@
 
 ### A System Dynamics Model of GDPR Enforcement in Ireland
 
-Python code and an interactive Streamlit dashboard accompanying my master's thesis, **Trust, Fines and Foreign Investment: A System Dynamics of GDPR Enforcement in Ireland**.
+Python code and an interactive Streamlit dashboard accompanying my master's thesis, "**Trust, Fines and Foreign Investment: A System Dynamics of GDPR Enforcement in Ireland**".
 
 This project explores how GDPR enforcement intensity could influence Ireland's information and communication technology (ICT) foreign direct investment (FDI) stock through interconnected changes in trust, innovation capacity, compliance costs and investment attractiveness.
 
