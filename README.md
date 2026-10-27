@@ -124,7 +124,6 @@ The thesis's model-based results suggest that compliance costs can affect invest
 
 Key limitations include a short calibration period, proxy indicators, assumed attractiveness weights, fixed future inputs and sensitivity to parameters and model structure. The innovation channel should be interpreted as a structural assumption rather than an empirically validated mechanism. Calibration R² and RMSE describe the fit to annual changes; they do not establish out-of-sample predictive performance.
 
-The current code fixes the FDI carrying capacity at `213000 × 2.04 = 434520` EUR millions during calibration. Calibration values are the dashboard defaults, and sliders allow users to explore alternatives. Scenario curves should be read in light of those assumptions.
 
 ## Author
 
