@@ -100,12 +100,6 @@ These are operational proxies for the model's concepts; for example, the trust s
 
 ## Run locally
 
-From Terminal, navigate to your project folder:
-
-```bash
-cd "/path/to/Thesis Code"
-```
-
 Create and activate a virtual environment (macOS/Linux):
 
 ```bash
