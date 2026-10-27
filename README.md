@@ -10,7 +10,8 @@ Developed as part of the Erasmus Mundus MSc in Transition, Innovation and Sustai
 
 ## Research question
 
-How might different levels of GDPR enforcement shape Ireland's long-term attractiveness for ICT investment?
+How does GDPR Enforcement Intensity affect the long-term ICT FDI Stock
+trajectory of Ireland?
 
 Enforcement creates competing pressures in the model: it can strengthen regulatory credibility and trust, while increasing compliance costs that constrain innovation and investment. System dynamics provides a framework for exploring how these mechanisms interact over time.
 
